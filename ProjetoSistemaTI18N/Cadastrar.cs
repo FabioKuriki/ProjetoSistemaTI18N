@@ -68,7 +68,7 @@ namespace ProjetoSistemaTI18N
 
         private void voltarBotao_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }//Fim do voltar
     }//Fim da classe
 }//Fim do projeto

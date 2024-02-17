@@ -24,18 +24,20 @@ namespace ProjetoSistemaTI18N
 
         private void cadastrar_Click(object sender, EventArgs e)
         {
-            Cadastrar cad= new Cadastrar();
+            Cadastrar cad = new Cadastrar();
             cad.ShowDialog();//Aparecer a tela cadastrar
         }//Fim do cadastrar
 
         private void consultar_Click(object sender, EventArgs e)
         {
-
+            Consultar con = new Consultar();//Conexão com BD
+            con.ShowDialog();//Mostar a tela
         }//Fim do consultar
 
         private void atualizar_Click(object sender, EventArgs e)
         {
-
+            Atualizar atu = new Atualizar();
+            atu.ShowDialog();
         }//Fim do atualizar
 
         private void deletar_Click(object sender, EventArgs e)

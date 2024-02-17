@@ -42,3 +42,5 @@ C:\Users\fabio.hkcesare\source\repos\ProjetoSistemaTI18N\ProjetoSistemaTI18N\bin
 C:\Users\fabio.hkcesare\source\repos\ProjetoSistemaTI18N\ProjetoSistemaTI18N\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\fabio.hkcesare\source\repos\ProjetoSistemaTI18N\ProjetoSistemaTI18N\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\fabio.hkcesare\source\repos\ProjetoSistemaTI18N\ProjetoSistemaTI18N\obj\Debug\ProjetoSistemaTI18N.csproj.CopyComplete
+C:\Users\fabio.hkcesare\source\repos\ProjetoSistemaTI18N\ProjetoSistemaTI18N\obj\Debug\ProjetoSistemaTI18N.Consultar.resources
+C:\Users\fabio.hkcesare\source\repos\ProjetoSistemaTI18N\ProjetoSistemaTI18N\obj\Debug\ProjetoSistemaTI18N.Atualizar.resources
