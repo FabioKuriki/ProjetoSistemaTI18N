@@ -42,7 +42,8 @@ namespace ProjetoSistemaTI18N
 
         private void deletar_Click(object sender, EventArgs e)
         {
-
+            Excluir ex = new Excluir();
+            ex.ShowDialog();
         }//Fim do deletar
     }//Fim da classe
 }//Fim do projeto
